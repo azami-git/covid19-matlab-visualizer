@@ -1,4 +1,3 @@
-# covid19-matlab-visualizer
 # COVID-19 MATLAB Data Visualizer (JHU CRC)
 
 This project processes and visualizes COVID‑19 pandemic data from the Johns Hopkins University Coronavirus Resource Center.
